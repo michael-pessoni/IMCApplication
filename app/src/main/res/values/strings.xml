@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">IMC Application</string>
+    <string name="app_name">IMC App</string>
+    <string name="ol_radiobutton">Olá RadioButton</string>
+    <string name="hello_word">Hello World!</string>
 </resources>
